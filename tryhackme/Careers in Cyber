@@ -1,0 +1,208 @@
+# 🛡️ Careers in Cyber
+
+> 📚 Learning Notes from the TryHackMe Pre Security Learning Path
+>
+> **Author:** Dipti Rani Shaha  
+> **Status:** ✅ Completed
+
+---
+
+# Overview
+
+Cybersecurity offers many career paths. Each role focuses on protecting systems, networks, applications, or data from cyber threats. Choosing a career depends on your interests, technical skills, and long-term goals.
+
+---
+
+# Why Cyber Security?
+
+- High demand for skilled professionals
+- Opportunities in different industries
+- Continuous learning and problem-solving
+- Competitive salaries
+- Ability to help organizations defend against cyber attacks
+
+---
+
+# Common Career Paths
+
+## 1. Security Analyst (SOC Analyst)
+
+### Responsibilities
+
+- Monitor security alerts
+- Analyze suspicious activities
+- Investigate incidents
+- Respond to security events
+- Report vulnerabilities
+
+### Skills
+
+- Networking
+- Windows & Linux
+- SIEM tools
+- Log Analysis
+- Incident Response
+
+---
+
+## 2. Security Engineer
+
+### Responsibilities
+
+- Design secure systems
+- Configure firewalls
+- Implement security controls
+- Improve infrastructure security
+
+### Skills
+
+- Networking
+- Firewalls
+- IDS/IPS
+- Cloud Security
+- System Administration
+
+---
+
+## 3. Penetration Tester (Ethical Hacker)
+
+### Responsibilities
+
+- Perform authorized security testing
+- Identify vulnerabilities
+- Simulate cyber attacks
+- Write security assessment reports
+
+### Skills
+
+- Linux
+- Networking
+- Web Security
+- Python
+- Burp Suite
+- Nmap
+- Metasploit
+
+---
+
+## 4. Incident Responder
+
+### Responsibilities
+
+- Investigate cyber attacks
+- Contain security incidents
+- Recover affected systems
+- Document findings
+
+### Skills
+
+- Digital Forensics
+- Log Analysis
+- Malware Investigation
+- Communication
+
+---
+
+## 5. Digital Forensics Analyst
+
+### Responsibilities
+
+- Collect digital evidence
+- Analyze compromised devices
+- Recover deleted data
+- Support investigations
+
+### Skills
+
+- File Systems
+- Operating Systems
+- Evidence Handling
+- Forensic Tools
+
+---
+
+## 6. Malware Analyst
+
+### Responsibilities
+
+- Analyze malicious software
+- Understand malware behavior
+- Detect threats
+- Develop detection methods
+
+### Skills
+
+- Reverse Engineering
+- Assembly Language
+- Windows Internals
+- Programming
+
+---
+
+## 7. Security Consultant
+
+### Responsibilities
+
+- Assess organizational security
+- Recommend improvements
+- Conduct risk assessments
+- Develop security policies
+
+### Skills
+
+- Risk Management
+- Communication
+- Security Frameworks
+- Compliance
+
+---
+
+## 8. Red Team
+
+### Responsibilities
+
+- Simulate real-world attacks
+- Test organizational defenses
+- Identify security weaknesses
+
+### Skills
+
+- Penetration Testing
+- Social Engineering
+- Active Directory
+- Exploitation
+
+---
+
+## 9. Blue Team
+
+### Responsibilities
+
+- Monitor security systems
+- Detect attacks
+- Respond to incidents
+- Strengthen defenses
+
+### Skills
+
+- SIEM
+- Threat Hunting
+- Incident Response
+- Network Monitoring
+
+---
+
+# Offensive vs Defensive Security
+
+| Offensive Security        | Defensive Security            |
+|---------------------------|-------------------------------|
+| Attacks systems ethically | Protects systems from attacks |
+| Finds vulnerabilities     | Detects and blocks threatsmmm |
+| Penetration Testing       | Security Monitoring           |
+| Red Team                  | Blue Team                     |
+
+---
+
+
+
+
