@@ -1,0 +1,158 @@
+# 🛡️ TryHackMe - Pre Security Notes
+
+> 📚 Learning Journey by Dipti Rani Shaha
+>
+> These notes summarize what I learned from the **Pre Security** learning path on TryHackMe. They are written in my own words for educational and portfolio purposes.
+
+# What is Cyber Security?
+
+Cyber Security is the practice of protecting computers, networks, systems, and data from unauthorized access, cyber attacks, and digital threats.
+
+### Objectives
+
+- Protect Confidentiality
+- Maintain Integrity
+- Ensure Availability
+
+These three principles are known as the **CIA Triad**.
+
+---
+
+# CIA Triad
+
+## 🔒 Confidentiality
+
+Only authorized people should be able to access sensitive information.
+
+### Examples
+
+- Passwords
+- Encryption
+- Multi-Factor Authentication (MFA)
+
+---
+
+## ✔️ Integrity
+
+Data should remain accurate and should not be modified without permission.
+
+### Examples
+
+- Hashing
+- Digital Signatures
+- File Integrity Monitoring
+
+---
+
+## 🌍 Availability
+
+Systems and services should remain available whenever users need them.
+
+### Examples
+
+- Regular Backups
+- Load Balancing
+- Disaster Recovery
+
+---
+
+# Common Cyber Threats
+
+## Malware
+
+Malicious software designed to damage or steal information.
+
+Examples:
+
+- Virus
+- Worm
+- Trojan
+- Ransomware
+
+---
+
+## Phishing
+
+A social engineering attack where attackers trick users into revealing sensitive information through fake emails or websites.
+
+---
+
+## Password Attacks
+
+Attackers attempt to guess or steal passwords.
+
+Examples:
+
+- Brute Force
+- Dictionary Attack
+- Credential Stuffing
+
+---
+
+## Denial of Service (DoS)
+
+An attacker overwhelms a service with traffic, making it unavailable.
+
+---
+
+# Types of Hackers
+
+### White Hat
+
+Ethical hackers who help organizations improve security.
+
+### Black Hat
+
+Hackers who attack systems for illegal purposes.
+
+### Grey Hat
+
+Hackers who may find vulnerabilities without permission but usually do not have malicious intentions.
+
+---
+
+# Basic Security Practices
+
+- Use strong passwords
+- Enable Multi-Factor Authentication
+- Keep software updated
+- Avoid suspicious links
+- Backup important data regularly
+
+---
+
+# Key Terms Learned
+
+| Term            | Meaning                                            |
+|-----------------|----------------------------------------------------|
+| Cyber Security  | Protection of digital systems                      |
+| Malware         | Malicious software                                 |
+| Phishing        | Fake messages used to steal information            |
+| CIA Triad       | Confidentiality, Integrity, Availability           |
+| Vulnerability   | Weakness in a system                               |
+| Threat          | Anything that can cause damage                     |
+| Risk            | Probability of a threat exploiting a vulnerability |
+
+---
+
+# Tools Mentioned
+
+- TryHackMe
+- Linux
+- Windows
+- Web Browser
+- Virtual Machine (VM)
+
+---
+
+# What I Learned
+
+- Learned the fundamentals of Cyber Security.
+- Understood the CIA Triad.
+- Learned different types of cyber threats.
+- Understood the roles of ethical hackers.
+- Learned the importance of basic security practices.
+
+---
+
+
